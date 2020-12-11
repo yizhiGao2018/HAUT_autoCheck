@@ -7,8 +7,6 @@ on:
     branches: [ master ]
   schedule:
     - cron: 00 3 * * *
-    - cron: 00 4 * * *
-    - cron: 00 5 * * *
 
 jobs:
   bot:
